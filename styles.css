@@ -1,0 +1,12 @@
+.container{
+    border:1px solid black;
+    max-width:700px;
+    margin:40px;
+    padding:20px;
+}
+.form-group{
+    margin:20px 0;
+}
+label{
+    display:block;
+}
